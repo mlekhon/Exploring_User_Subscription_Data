@@ -1,5 +1,4 @@
-# Project-2
-# Exploring User Subscription Data: Geographical Mapping and Distribution Analysis
+Exploring User Subscription Data: Geographical Mapping and Distribution Analysis.
 
 #  Abstract:
 In the dynamic landscape of subscription-based services, understanding user behavior and preferences is paramount. This project delves into a comprehensive analysis of user subscription data, offering insights into age, gender, country, device, subscription type, and revenue distribution. Through insightful visualizations and geographical mapping, this report aims to unravel patterns and trends that can guide decision-making for service providers and marketers.
